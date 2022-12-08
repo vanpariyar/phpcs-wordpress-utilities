@@ -1,0 +1,12 @@
+[submodule "WordPress-Coding-Standards"]
+	path = WordPress-Coding-Standards
+	url = https://github.com/WordPress/WordPress-Coding-Standards.git
+[submodule "VIP-Coding-Standards"]
+	path = VIP-Coding-Standards
+	url = https://github.com/Automattic/VIP-Coding-Standards.git
+[submodule "PHPCompatibilityWP"]
+	path = PHPCompatibilityWP
+	url = https://github.com/PHPCompatibility/PHPCompatibilityWP.git
+[submodule "phpcs-variable-analysis"]
+	path = phpcs-variable-analysis
+	url = https://github.com/sirbrillig/phpcs-variable-analysis.git
